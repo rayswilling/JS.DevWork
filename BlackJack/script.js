@@ -196,10 +196,10 @@ playerCardString +
 
 if (gameOver) {
 if (playerWon) {
-  textArea.innerText += "WELLDONE STEVE, YOU WIN";
+  textArea.innerText += "YOU WIN, HOWS LONDON MARK?";
 }
 else {
-  textArea.innerText += "DEALER WINS, fsociety";
+  textArea.innerText += "DEALER WINS";
   }
 newgameButton.style.display = 'inline';
 hitButton.style.display ='none';
