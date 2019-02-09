@@ -206,3 +206,5 @@ hitButton.style.display ='none';
 stayButton.style.display = 'none';
 }
 }
+
+test
